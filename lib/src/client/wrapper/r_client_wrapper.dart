@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:dio/dio.dart';
 import 'package:logger/logger.dart';
-import 'package:rok_oauth/src/client/error/r_protocal_error.dart';
+import 'package:rok_oauth/src/client/error/r_protocol_error.dart';
 import 'package:rok_oauth/src/client/type_def/r_unauthorized_reponse_handler.dart';
 import 'package:rok_oauth/src/oauth2/manager/r_oauth2_manager.dart';
 
