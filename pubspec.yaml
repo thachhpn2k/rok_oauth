@@ -1,0 +1,21 @@
+name: rok_oauth
+description: "Rok Oauth Package Follow Oauth2"
+version: 0.1.0
+homepage: https://github.com/thachhpn2k/rok_oauth
+
+environment:
+  sdk: ^3.2.0
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  # Recommended lints for Flutter apps, packages, and plugins to encourage good coding practices.
+  flutter_lints: ^4.0.0
+
+flutter:
